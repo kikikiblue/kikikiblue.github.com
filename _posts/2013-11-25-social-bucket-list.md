@@ -19,10 +19,10 @@ tags: [social,bucketlist]
 그래서 검색. 
 
 <ul>
-  <li>http://www.bucketlistmatch.com/</li>
-  <li>http://www.bucketlist.net/</li>
-  <li>http://www.wakeuplist.com/</li>
-  <li>http://www.challengelistcreator.com/</li>
+  <li><a href="http://www.bucketlistmatch.com/">http://www.bucketlistmatch.com/</a></li>
+  <li><a href="http://www.bucketlist.net/">http://www.bucketlist.net/</a></li>
+  <li><a href="http://www.wakeuplist.com/">http://www.wakeuplist.com/</a></li>
+  <li><a href="http://www.challengelistcreator.com/">http://www.challengelistcreator.com/</a></li>
 </ul>
 
 첫번째는 디자인은 뭐 그럭저럭. 다른 사람의 버킷리스트를 보고 서로 도움을 준다던가...
