@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "소셜(?) 버킷 리스트"
+title: "소셜(?) 버킷리스트"
 description: ""
 category: ""
 tags: [social,bucketlist]
